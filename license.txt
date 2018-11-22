@@ -1,0 +1,26 @@
+EASOFTS SHAREVIEW LICENSE AGREEMENT
+
+This license statement and limited warranty constitutes a legal agreement ("License Agreement") between you (either as an individual or a single entity) and EAsofts ("EAsofts" or "Company") for the software product ("Software") identified above, including any software, media, and accompanying on-line or printed documentation. By installing, copying, or otherwise using the software, you agree to be bound by all of the terms and conditions of this license agreement.
+
+General Terms
+
+This copy of ShareView may either be used by a single person who uses the software personally on one or more computers, or installed on a single workstation used none simultaneously by multiple people, but not both. This is not a concurrent use license. You may access this copy through a network, provided that you have obtained an individual ShareView license for each workstation that will access ShareView through the network.  For instance, if 3 different workstations will access ShareView on the network, each workstation must have its own ShareView license, regardless of whether they use ShareView at different times or concurrently.
+
+Limited Warranty
+
+This software, and all accompanying files, data and materials, are distributed "AS IS" and with no warranties of any kind, whether express or implied. Good data processing procedure dictates that any program be thoroughly tested with non-critical data before relying on it. The user must assume the entire risk of using the program. This disclaimer of warranty constitutes an essential part of the agreement. 
+
+To the maximum extent permitted by applicable law, EAsofts and its suppliers disclaim all other warranties and conditions, either expressed or implied, including, but not limited to, implied warranties or merchantability, fitness for a particular purpose, title, and non-infringement, with regard to the software, and the provision of or failure to provide software will be error free or will operate without interruption. The entire risk arising out of the user or performance of the EAsofts Software and accompanying written materials remains with you. This limited warranty gives you specific legal rights. You may have others, which vary from state/jurisdiction to state/jurisdiction.
+
+Limitation of Liability
+
+To the maximum extent permitted by applicable law, in no event shall EAsofts or its licensors or suppliers be liable for any special, incidental, indirect, consequential, punitive or exemplary damages whatsoever (including, without limitation, damages for loss of business profits or business interruption, goodwill, loss of business information, or any other pecuniary loss) whether based on principles of contract, tort (including negligence), duty, indemnity, contribution or otherwise, arising out of the use of or inability to use the software or the provision of or failure to provide support services, even if EAsofts has been advised of the possibility of such damages. In any case, EAsofts' entire liability under any provision of this license agreement shall be limited to the greater of the amount actually paid by you for the software product.
+
+License Restrictions
+
+All rights of any kind in ShareView which are not expressly granted in this License are entirely and exclusively reserved to and by Company. You may not rent, lease, modify, translate, reverse engineer, decompile, disassemble or create derivative works based on ShareView. There are no third party beneficiaries of any promises, obligations or representations made by Company herein. All copyrights to are exclusively owned by the Company.
+
+Copyright (C) 2004 - 2005 EAsofts Software. All rights reserved.
+10/02/2005
+
+

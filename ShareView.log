@@ -1,0 +1,26 @@
+Source: ShareView.exe
+File version: 1.5.9.32
+Detect possible compiler: Borland Delphi
+Transformation marks not found.
+Randomize: 3522502406, 2490971140, 1541369939, 1635064257
+Process import ...
+Compile EXECryptor API library 107297 bytes; 28151 instructions; 2019 jcc.
+Local transform: 134 bytes; 16 instructions; 1 jcc.
+Global transform: 138 bytes; 17 instructions; 1 jcc.
+Total: 107435 bytes; 28168 instructions; 2020 jcc.
+Mix code: 146496 bytes; 35979 instructions; 2020 jcc.
+Create extra code section at 0x002FB000. Size 191764 bytes.
+Update TLS directory
+Assemble
+Reduce extra code section size: 191764 --> 60592 bytes
+Strip relocation info.
+Update TLS directory
+LZAB Fast Compression Library. Copyright (C) SoftComplete Development.
+Compress code ...
+Compress resource ...
+Done: 2721456 --> 1000460 bytes (36%)
+Decompressor size: 116 bytes
+Compile loader 7257 bytes; 1729 instructions; 101 jcc.
+Create backup
+Save
+Done.
